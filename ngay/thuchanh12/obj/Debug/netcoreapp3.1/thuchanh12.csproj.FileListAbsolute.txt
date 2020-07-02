@@ -1,0 +1,13 @@
+C:\Users\Hoang\Documents\module2\ngay\thuchanh12\bin\Debug\netcoreapp3.1\thuchanh12.exe
+C:\Users\Hoang\Documents\module2\ngay\thuchanh12\bin\Debug\netcoreapp3.1\thuchanh12.deps.json
+C:\Users\Hoang\Documents\module2\ngay\thuchanh12\bin\Debug\netcoreapp3.1\thuchanh12.runtimeconfig.json
+C:\Users\Hoang\Documents\module2\ngay\thuchanh12\bin\Debug\netcoreapp3.1\thuchanh12.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\module2\ngay\thuchanh12\bin\Debug\netcoreapp3.1\thuchanh12.dll
+C:\Users\Hoang\Documents\module2\ngay\thuchanh12\bin\Debug\netcoreapp3.1\thuchanh12.pdb
+C:\Users\Hoang\Documents\module2\ngay\thuchanh12\obj\Debug\netcoreapp3.1\thuchanh12.csprojAssemblyReference.cache
+C:\Users\Hoang\Documents\module2\ngay\thuchanh12\obj\Debug\netcoreapp3.1\thuchanh12.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\module2\ngay\thuchanh12\obj\Debug\netcoreapp3.1\thuchanh12.AssemblyInfo.cs
+C:\Users\Hoang\Documents\module2\ngay\thuchanh12\obj\Debug\netcoreapp3.1\thuchanh12.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\module2\ngay\thuchanh12\obj\Debug\netcoreapp3.1\thuchanh12.dll
+C:\Users\Hoang\Documents\module2\ngay\thuchanh12\obj\Debug\netcoreapp3.1\thuchanh12.pdb
+C:\Users\Hoang\Documents\module2\ngay\thuchanh12\obj\Debug\netcoreapp3.1\thuchanh12.genruntimeconfig.cache

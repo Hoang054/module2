@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "thuchanh11/1.0.0": {
+        "runtime": {
+          "thuchanh11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "thuchanh11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

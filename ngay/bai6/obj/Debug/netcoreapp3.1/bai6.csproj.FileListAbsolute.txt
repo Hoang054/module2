@@ -1,0 +1,13 @@
+C:\Users\Hoang\Documents\module2\ngay\bai6\bin\Debug\netcoreapp3.1\bai6.exe
+C:\Users\Hoang\Documents\module2\ngay\bai6\bin\Debug\netcoreapp3.1\bai6.deps.json
+C:\Users\Hoang\Documents\module2\ngay\bai6\bin\Debug\netcoreapp3.1\bai6.runtimeconfig.json
+C:\Users\Hoang\Documents\module2\ngay\bai6\bin\Debug\netcoreapp3.1\bai6.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\module2\ngay\bai6\bin\Debug\netcoreapp3.1\bai6.dll
+C:\Users\Hoang\Documents\module2\ngay\bai6\bin\Debug\netcoreapp3.1\bai6.pdb
+C:\Users\Hoang\Documents\module2\ngay\bai6\obj\Debug\netcoreapp3.1\bai6.csprojAssemblyReference.cache
+C:\Users\Hoang\Documents\module2\ngay\bai6\obj\Debug\netcoreapp3.1\bai6.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\module2\ngay\bai6\obj\Debug\netcoreapp3.1\bai6.AssemblyInfo.cs
+C:\Users\Hoang\Documents\module2\ngay\bai6\obj\Debug\netcoreapp3.1\bai6.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\module2\ngay\bai6\obj\Debug\netcoreapp3.1\bai6.dll
+C:\Users\Hoang\Documents\module2\ngay\bai6\obj\Debug\netcoreapp3.1\bai6.pdb
+C:\Users\Hoang\Documents\module2\ngay\bai6\obj\Debug\netcoreapp3.1\bai6.genruntimeconfig.cache
