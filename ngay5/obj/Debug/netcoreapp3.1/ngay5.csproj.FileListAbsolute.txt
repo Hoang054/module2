@@ -1,0 +1,13 @@
+C:\Users\Hoang\Documents\module2\ngay5\bin\Debug\netcoreapp3.1\ngay5.exe
+C:\Users\Hoang\Documents\module2\ngay5\bin\Debug\netcoreapp3.1\ngay5.deps.json
+C:\Users\Hoang\Documents\module2\ngay5\bin\Debug\netcoreapp3.1\ngay5.runtimeconfig.json
+C:\Users\Hoang\Documents\module2\ngay5\bin\Debug\netcoreapp3.1\ngay5.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\module2\ngay5\bin\Debug\netcoreapp3.1\ngay5.dll
+C:\Users\Hoang\Documents\module2\ngay5\bin\Debug\netcoreapp3.1\ngay5.pdb
+C:\Users\Hoang\Documents\module2\ngay5\obj\Debug\netcoreapp3.1\ngay5.csprojAssemblyReference.cache
+C:\Users\Hoang\Documents\module2\ngay5\obj\Debug\netcoreapp3.1\ngay5.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\module2\ngay5\obj\Debug\netcoreapp3.1\ngay5.AssemblyInfo.cs
+C:\Users\Hoang\Documents\module2\ngay5\obj\Debug\netcoreapp3.1\ngay5.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\module2\ngay5\obj\Debug\netcoreapp3.1\ngay5.dll
+C:\Users\Hoang\Documents\module2\ngay5\obj\Debug\netcoreapp3.1\ngay5.pdb
+C:\Users\Hoang\Documents\module2\ngay5\obj\Debug\netcoreapp3.1\ngay5.genruntimeconfig.cache
