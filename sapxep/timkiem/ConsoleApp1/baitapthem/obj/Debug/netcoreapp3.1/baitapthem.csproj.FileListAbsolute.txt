@@ -1,0 +1,13 @@
+C:\Users\Hoang\Documents\module2\sapxep\timkiem\ConsoleApp1\baitapthem\obj\Debug\netcoreapp3.1\baitapthem.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\module2\sapxep\timkiem\ConsoleApp1\baitapthem\obj\Debug\netcoreapp3.1\baitapthem.AssemblyInfo.cs
+C:\Users\Hoang\Documents\module2\sapxep\timkiem\ConsoleApp1\baitapthem\obj\Debug\netcoreapp3.1\baitapthem.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\module2\sapxep\timkiem\ConsoleApp1\baitapthem\bin\Debug\netcoreapp3.1\baitapthem.exe
+C:\Users\Hoang\Documents\module2\sapxep\timkiem\ConsoleApp1\baitapthem\bin\Debug\netcoreapp3.1\baitapthem.deps.json
+C:\Users\Hoang\Documents\module2\sapxep\timkiem\ConsoleApp1\baitapthem\bin\Debug\netcoreapp3.1\baitapthem.runtimeconfig.json
+C:\Users\Hoang\Documents\module2\sapxep\timkiem\ConsoleApp1\baitapthem\bin\Debug\netcoreapp3.1\baitapthem.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\module2\sapxep\timkiem\ConsoleApp1\baitapthem\bin\Debug\netcoreapp3.1\baitapthem.dll
+C:\Users\Hoang\Documents\module2\sapxep\timkiem\ConsoleApp1\baitapthem\bin\Debug\netcoreapp3.1\baitapthem.pdb
+C:\Users\Hoang\Documents\module2\sapxep\timkiem\ConsoleApp1\baitapthem\obj\Debug\netcoreapp3.1\baitapthem.dll
+C:\Users\Hoang\Documents\module2\sapxep\timkiem\ConsoleApp1\baitapthem\obj\Debug\netcoreapp3.1\baitapthem.pdb
+C:\Users\Hoang\Documents\module2\sapxep\timkiem\ConsoleApp1\baitapthem\obj\Debug\netcoreapp3.1\baitapthem.genruntimeconfig.cache
+C:\Users\Hoang\Documents\module2\sapxep\timkiem\ConsoleApp1\baitapthem\obj\Debug\netcoreapp3.1\baitapthem.csprojAssemblyReference.cache
