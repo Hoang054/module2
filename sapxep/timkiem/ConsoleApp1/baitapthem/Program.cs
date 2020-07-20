@@ -32,9 +32,6 @@ namespace baitapthem
                         Find(array);
                         break;
                 }
-                //int[] arr = new int[] { 1, 2, 3, 4, 3, 2, 1 };
-                //Console.WriteLine(IsSymmetricalArray(arr));
-                //SelectionSort(arr);
             }
         }
         static int[] creatarray()
@@ -87,6 +84,7 @@ namespace baitapthem
             {
                 Console.Write(item + "\t");
             }
+            Console.WriteLine();
         }
         static string BinarySearch(int[] arr, int x, int l, int r)
         {
