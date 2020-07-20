@@ -103,7 +103,7 @@ namespace baitapthem
         static void Find(int[] arr)
         {
             if (arr == null || arr.Length == 0)
-                Console.WriteLine("Array not sort yet");
+                Console.WriteLine("Array not length");
             else
             {
                 Console.Write("Enter number to find : ");
