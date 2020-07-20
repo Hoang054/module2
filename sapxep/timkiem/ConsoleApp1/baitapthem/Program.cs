@@ -89,16 +89,25 @@ namespace baitapthem
         static string BinarySearch(int[] arr, int x, int l, int r)
         {
             int m = l / 2 + r / 2;
+            string result = "";
             if (arr[m] == x)
-                return $"{m}";
+            {
+                if (arr[m - 1] == x || arr[m + 1] == x)
+                {
+                    for (int i = 0; i <= r; i++)
+                        if (arr[i] == x)
+                            result += $"{i}, ";
+                }
+            }
             else if (l >= r)
-                return "no find";
+                result = "no find or not sort yet";
             else if (x < arr[m])
             {
                 return BinarySearch(arr, x, l, m - 1);
             }
             else
                 return BinarySearch(arr, x, m + 1, r);
+            return result;
         }
         static void Find(int[] arr)
         {
