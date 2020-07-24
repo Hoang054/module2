@@ -1,0 +1,13 @@
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\excerise2\bin\Debug\netcoreapp3.1\excerise2.exe
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\excerise2\bin\Debug\netcoreapp3.1\excerise2.deps.json
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\excerise2\bin\Debug\netcoreapp3.1\excerise2.runtimeconfig.json
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\excerise2\bin\Debug\netcoreapp3.1\excerise2.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\excerise2\bin\Debug\netcoreapp3.1\excerise2.dll
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\excerise2\bin\Debug\netcoreapp3.1\excerise2.pdb
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\excerise2\obj\Debug\netcoreapp3.1\excerise2.csprojAssemblyReference.cache
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\excerise2\obj\Debug\netcoreapp3.1\excerise2.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\excerise2\obj\Debug\netcoreapp3.1\excerise2.AssemblyInfo.cs
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\excerise2\obj\Debug\netcoreapp3.1\excerise2.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\excerise2\obj\Debug\netcoreapp3.1\excerise2.dll
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\excerise2\obj\Debug\netcoreapp3.1\excerise2.pdb
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\excerise2\obj\Debug\netcoreapp3.1\excerise2.genruntimeconfig.cache

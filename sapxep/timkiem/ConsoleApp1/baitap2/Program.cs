@@ -6,10 +6,10 @@ namespace baitap2
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Enter a string :");
-            //string tam = Console.ReadLine();
-            //Console.WriteLine(sort(tam));
-            Console.WriteLine(sort("abcabcde"));
+            Console.WriteLine("Enter a string :");
+            string tam = Console.ReadLine();
+            Console.WriteLine(sort(tam));
+            //Console.WriteLine(sort("abcabcdabcdefasgadgaga"));
         }
         static string sort(string str)
         {
@@ -20,7 +20,7 @@ namespace baitap2
             string rerult = "";
             //int[] frequentChar = new int[255];
             int i = 0;
-            while (vitri  < str.Length - 2)
+            while (vitri  < str.Length - 1)
             {
                 for (i = vitri; i < str.Length - 1; i++)
                 {
@@ -32,9 +32,9 @@ namespace baitap2
                             rerult += str[i];
                         rerult += str[i + 1];
                         count++;
-                        tam = rerult;
+                        //tam = rerult;
                     }
-                    else
+                    if (ascii >= ascii2 || i >= str.Length -2)
                     {
                         if (max < count) 
                         {

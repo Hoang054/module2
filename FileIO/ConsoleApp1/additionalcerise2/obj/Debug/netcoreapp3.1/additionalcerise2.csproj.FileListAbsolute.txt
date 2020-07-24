@@ -1,0 +1,13 @@
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalcerise2\bin\Debug\netcoreapp3.1\additionalcerise2.exe
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalcerise2\bin\Debug\netcoreapp3.1\additionalcerise2.deps.json
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalcerise2\bin\Debug\netcoreapp3.1\additionalcerise2.runtimeconfig.json
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalcerise2\bin\Debug\netcoreapp3.1\additionalcerise2.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalcerise2\bin\Debug\netcoreapp3.1\additionalcerise2.dll
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalcerise2\bin\Debug\netcoreapp3.1\additionalcerise2.pdb
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalcerise2\obj\Debug\netcoreapp3.1\additionalcerise2.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalcerise2\obj\Debug\netcoreapp3.1\additionalcerise2.AssemblyInfo.cs
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalcerise2\obj\Debug\netcoreapp3.1\additionalcerise2.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalcerise2\obj\Debug\netcoreapp3.1\additionalcerise2.dll
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalcerise2\obj\Debug\netcoreapp3.1\additionalcerise2.pdb
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalcerise2\obj\Debug\netcoreapp3.1\additionalcerise2.genruntimeconfig.cache
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalcerise2\obj\Debug\netcoreapp3.1\additionalcerise2.csprojAssemblyReference.cache

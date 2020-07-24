@@ -1,0 +1,13 @@
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalexcercises\bin\Debug\netcoreapp3.1\additionalexcercises.exe
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalexcercises\bin\Debug\netcoreapp3.1\additionalexcercises.deps.json
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalexcercises\bin\Debug\netcoreapp3.1\additionalexcercises.runtimeconfig.json
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalexcercises\bin\Debug\netcoreapp3.1\additionalexcercises.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalexcercises\bin\Debug\netcoreapp3.1\additionalexcercises.dll
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalexcercises\bin\Debug\netcoreapp3.1\additionalexcercises.pdb
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalexcercises\obj\Debug\netcoreapp3.1\additionalexcercises.csprojAssemblyReference.cache
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalexcercises\obj\Debug\netcoreapp3.1\additionalexcercises.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalexcercises\obj\Debug\netcoreapp3.1\additionalexcercises.AssemblyInfo.cs
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalexcercises\obj\Debug\netcoreapp3.1\additionalexcercises.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalexcercises\obj\Debug\netcoreapp3.1\additionalexcercises.dll
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalexcercises\obj\Debug\netcoreapp3.1\additionalexcercises.pdb
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additionalexcercises\obj\Debug\netcoreapp3.1\additionalexcercises.genruntimeconfig.cache

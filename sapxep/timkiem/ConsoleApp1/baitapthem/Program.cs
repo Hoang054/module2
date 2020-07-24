@@ -92,13 +92,53 @@ namespace baitapthem
             string result = "";
             if (arr[m] == x)
             {
-                if (arr[m - 1] == x || arr[m + 1] == x)
+                int n = m;
+                result += m;
+                bool checkLeft = false;
+                bool checkRight = false;
+                int i = 1;
+                while (true)
                 {
-                    for (int i = 0; i <= r; i++)
-                        if (arr[i] == x)
-                            result += $"{i}, ";
+                    if ((m - i) >= 0 && (m - i) <= arr.Length - 1)
+                    {
+                        if (arr[m-i] == arr[m])
+                        {
+                            result += "**" + (m-i);
+
+                        }
+                        else
+                        {
+                            checkLeft = true;
+                        }
+
+                    }
+                    else
+                    {
+                        checkLeft = true;
+                    }
+                    if ((m + i) >= 0 && (m + i) <= arr.Length - 1)
+                    {
+                        if (arr[m+i] == arr[m])
+                        {
+                            result += "**" + (m+i);
+
+                        }
+                        else
+                        {
+                            checkRight = true;
+                        }
+                    }
+                    else
+                    {
+                        checkRight = true;
+                    }
+                    if (checkLeft && checkRight)
+                    {
+                        break;
+                    }
+                    i++;
                 }
-            }
+                }
             else if (l >= r)
                 result = "no find or not sort yet";
             else if (x < arr[m])

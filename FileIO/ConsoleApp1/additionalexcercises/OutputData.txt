@@ -1,0 +1,9 @@
+Sum of matrix:100
+Sum of prime number: 46
+Sum of odd number: 60
+Sum of border: 108
+matrix x3 :
+3 6 9 12 15
+15 18 21 24 27
+3 6 9 12 15
+15 18 21 24 27

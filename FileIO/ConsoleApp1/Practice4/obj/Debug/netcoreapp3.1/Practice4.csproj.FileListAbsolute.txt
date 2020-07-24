@@ -1,0 +1,12 @@
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\Practice4\bin\Debug\netcoreapp3.1\Practice4.exe
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\Practice4\bin\Debug\netcoreapp3.1\Practice4.deps.json
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\Practice4\bin\Debug\netcoreapp3.1\Practice4.runtimeconfig.json
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\Practice4\bin\Debug\netcoreapp3.1\Practice4.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\Practice4\bin\Debug\netcoreapp3.1\Practice4.dll
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\Practice4\bin\Debug\netcoreapp3.1\Practice4.pdb
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\Practice4\obj\Debug\netcoreapp3.1\Practice4.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\Practice4\obj\Debug\netcoreapp3.1\Practice4.AssemblyInfo.cs
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\Practice4\obj\Debug\netcoreapp3.1\Practice4.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\Practice4\obj\Debug\netcoreapp3.1\Practice4.dll
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\Practice4\obj\Debug\netcoreapp3.1\Practice4.pdb
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\Practice4\obj\Debug\netcoreapp3.1\Practice4.genruntimeconfig.cache
