@@ -22,7 +22,7 @@
 //                using (BinaryWriter writer = new BinaryWriter(File.Open(path, FileMode.Open)))
 //                {
 //                    writer.Write(Convert.ToString(i,2));
-//                    writer.Write(writer.d);
+//                    writer.Write(d);
 //                    writer.Write(b);
 //                    writer.Write(s);
 //                }
@@ -82,93 +82,62 @@
 using System;
 using System.IO;
 
-namespace BinaryFileApplication
+namespace Practice_CopyFile
 {
     class Program
     {
         static void Main(string[] args)
         {
-            BinaryWriter bw;
-            BinaryReader br;
-            var path = @"C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\exercise3\source.txt";
-            var pathcopy = @"C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\exercise3\target.txt";
-
-            int i = 25;
-            double d = 3.14157;
-            bool b = true;
-            string s = "I am happy";
-
-            //create the file
+            FileInfo source = new FileInfo(@"C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\exercise3\source.txt");
+            FileInfo des = new FileInfo(@"C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\exercise3");
             try
             {
-                bw = new BinaryWriter(new FileStream(path, FileMode.Create));
+                CopyFileUsingFileInfo(source, des);
+                Console.WriteLine("Copy Completed");
             }
             catch (IOException e)
             {
-                Console.WriteLine(e.Message + "\n Cannot create file.");
-                return;
+                Console.WriteLine("Cannot Copy");
+                Console.Error.WriteLine(e.Message);
             }
+        }
 
-            //writing into the file
+        private static void CopyFileUsingFileInfo(FileInfo source, FileInfo des)
+        {
             try
             {
-                bw.Write(i);
-                bw.Write(d);
-                bw.Write(b);
-                bw.Write(s);
+                source.CopyTo(des.FullName, true);
             }
-            catch (IOException e)
+            catch (Exception e)
             {
-                Console.WriteLine(e.Message + "\n Cannot write to file.");
+
+                Console.WriteLine(e.Message +"khong tim thay file");
                 return;
             }
-            bw.Close();
+        }
 
-            //reading from the file
+        private static void CopyFileUsingStream(FileInfo source, FileInfo des)
+        {
+            StreamReader reader = null;
+            StreamWriter writer = null;
             try
             {
-                br = new BinaryReader(new FileStream(path, FileMode.Open));
+                reader = new StreamReader(source.FullName);
+                writer = new StreamWriter(des.FullName);
+                Char[] buffer = new Char[1024];
+                int length;
+                while ((length = reader.Read(buffer)) > 0)
+                {
+                    writer.Write(buffer, 0, length);
+                }
             }
-            catch (IOException e)
+            finally
             {
-                Console.WriteLine(e.Message + "\n Cannot open file.");
-                return;
+                reader.Close();
+                reader.Dispose();
+                writer.Close();
+                writer.Dispose();
             }
-
-            try
-            {
-                i = br.ReadInt32();
-                Console.WriteLine("Integer data: {0}", i);
-                d = br.ReadDouble();
-                Console.WriteLine("Double data: {0}", d);
-                b = br.ReadBoolean();
-                Console.WriteLine("Boolean data: {0}", b);
-                s = br.ReadString();
-                Console.WriteLine("String data: {0}", s);
-            }
-            catch (IOException e)
-            {
-                Console.WriteLine(e.Message + "\n Cannot read from file.");
-                return;
-            }
-            br.Close();
-
-            //writing into the file
-            try
-            {
-                bw = new BinaryWriter(new FileStream(path, FileMode.Create));
-                bw.Write(i);
-                bw.Write(d);
-                bw.Write(b);
-                bw.Write(s);
-            }
-            catch (IOException e)
-            {
-                Console.WriteLine(e.Message + "\n Cannot write to file.");
-                return;
-            }
-            bw.Close();
-            Console.ReadKey();
         }
     }
 }

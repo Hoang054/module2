@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "ID": 10001,
+      "name": "Tri",
+      "age": 10,
+      "gender": "male",
+      "scores": [
+        {
+          "name": "Toan",
+          "score": 9.4
+        },
+        {
+          "name": "Ly",
+          "score": 9.9
+        },
+        {
+          "name": "Hoa",
+          "score": 8.9
+        }
+      ]
+    },
+    {
+      "ID": 10002,
+      "name": "Tan",
+      "age": 10,
+      "gender": "male",
+      "scores": [
+        {
+          "name": "Toan",
+          "score": 8.4
+        },
+        {
+          "name": "Ly",
+          "score": 8.9
+        },
+        {
+          "name": "Hoa",
+          "score": 7.9
+        }
+      ]
+    },
+    {
+      "ID": 10003,
+      "name": "Tin",
+      "age": 19,
+      "gender": "female",
+      "scores": [
+        {
+          "name": "Toan",
+          "score": 8.5
+        },
+        {
+          "name": "Ly",
+          "score": 8.9
+        },
+        {
+          "name": "Hoa",
+          "score": 9.9
+        }
+      ]
+    }
+  ]
+}
