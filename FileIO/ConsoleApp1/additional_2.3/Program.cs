@@ -173,7 +173,7 @@ namespace additional_2._3
                                 name = std.name,
                                 selects = std.selects,
                                 tinhtien = std.selects.tinhtien(),
-                                giotinhtien = new DateTime()
+                                giotinhtien = DateTime.Now.ToString("dd/MM/yyyy hh:mm:ss")
                             });
                         }
                         Console.WriteLine("complete pay.");
@@ -237,7 +237,7 @@ namespace additional_2._3
         
         public select selects { get; set; }
         public double tinhtien { get; set; }
-        public DateTime giotinhtien { get; set; }
+        public string giotinhtien { get; set; }
     }
 
 }
