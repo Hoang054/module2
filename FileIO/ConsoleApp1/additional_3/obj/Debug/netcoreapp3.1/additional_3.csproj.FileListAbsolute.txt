@@ -1,0 +1,15 @@
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additional_3\bin\Debug\netcoreapp3.1\additional_3.exe
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additional_3\bin\Debug\netcoreapp3.1\additional_3.deps.json
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additional_3\bin\Debug\netcoreapp3.1\additional_3.runtimeconfig.json
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additional_3\bin\Debug\netcoreapp3.1\additional_3.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additional_3\bin\Debug\netcoreapp3.1\additional_3.dll
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additional_3\bin\Debug\netcoreapp3.1\additional_3.pdb
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additional_3\obj\Debug\netcoreapp3.1\additional_3.csprojAssemblyReference.cache
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additional_3\obj\Debug\netcoreapp3.1\additional_3.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additional_3\obj\Debug\netcoreapp3.1\additional_3.AssemblyInfo.cs
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additional_3\obj\Debug\netcoreapp3.1\additional_3.dll
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additional_3\obj\Debug\netcoreapp3.1\additional_3.pdb
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additional_3\obj\Debug\netcoreapp3.1\additional_3.genruntimeconfig.cache
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additional_3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additional_3\obj\Debug\netcoreapp3.1\additional_3.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\module2\FileIO\ConsoleApp1\additional_3\obj\Debug\netcoreapp3.1\additional_3.csproj.CopyComplete
