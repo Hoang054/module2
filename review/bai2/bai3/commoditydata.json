@@ -1,0 +1,21 @@
+{
+  "commodities": [
+    {
+      "Idproduct": 10000,
+      "nameproduct": "cocacola",
+      "price": 12000.0
+    },
+    {
+      "Idproduct": 10000,
+      "nameproduct": "coca",
+      "price": 10000.0
+    },
+    {
+      "amount": 0,
+      "Total": 0.0,
+      "Idproduct": 10001,
+      "nameproduct": "pepsi",
+      "price": 13000.0
+    }
+  ]
+}

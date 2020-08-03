@@ -1,0 +1,23 @@
+{
+  "datetimme": "01/08/2020 07:08:12",
+  "InformationStaff": {
+    "nameStaff": "hoang"
+  },
+  "Order": [
+    {
+      "nameproduct": "hoang",
+      "price": 200000.0,
+      "amount": 3,
+      "Total": 600000.0
+    }
+  ],
+  "totalprice": 600000.0,
+  "Info": {
+    "name": "thien",
+    "age": 31,
+    "numberphone": "01212121212",
+    "address": "21"
+  },
+  "ID": 10001,
+  "Orderstatus": "paid"
+}

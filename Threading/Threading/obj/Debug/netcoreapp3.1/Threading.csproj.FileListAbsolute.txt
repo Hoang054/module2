@@ -1,0 +1,13 @@
+C:\Users\Hoang\Documents\module2\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.exe
+C:\Users\Hoang\Documents\module2\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.deps.json
+C:\Users\Hoang\Documents\module2\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.runtimeconfig.json
+C:\Users\Hoang\Documents\module2\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\module2\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.dll
+C:\Users\Hoang\Documents\module2\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.pdb
+C:\Users\Hoang\Documents\module2\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.csprojAssemblyReference.cache
+C:\Users\Hoang\Documents\module2\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\module2\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.AssemblyInfo.cs
+C:\Users\Hoang\Documents\module2\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\module2\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.dll
+C:\Users\Hoang\Documents\module2\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.pdb
+C:\Users\Hoang\Documents\module2\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.genruntimeconfig.cache

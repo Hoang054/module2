@@ -1,0 +1,22 @@
+{
+  "InformationStaff": {
+    "nameStaff": "hoang"
+  },
+  "Order": [
+    {
+      "nameproduct": "coca",
+      "price": 10000.0,
+      "amount": 12,
+      "Total": 120000.0
+    }
+  ],
+  "totalprice": 120000.0,
+  "Info": {
+    "name": "thien",
+    "age": 21,
+    "numberphone": "212122121",
+    "address": "41"
+  },
+  "ID": 10003,
+  "Orderstatus": "paid"
+}

@@ -1,0 +1,13 @@
+C:\Users\Hoang\Documents\module2\Threading\racingcars\bin\Debug\netcoreapp3.1\racingcars.exe
+C:\Users\Hoang\Documents\module2\Threading\racingcars\bin\Debug\netcoreapp3.1\racingcars.deps.json
+C:\Users\Hoang\Documents\module2\Threading\racingcars\bin\Debug\netcoreapp3.1\racingcars.runtimeconfig.json
+C:\Users\Hoang\Documents\module2\Threading\racingcars\bin\Debug\netcoreapp3.1\racingcars.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\module2\Threading\racingcars\bin\Debug\netcoreapp3.1\racingcars.dll
+C:\Users\Hoang\Documents\module2\Threading\racingcars\bin\Debug\netcoreapp3.1\racingcars.pdb
+C:\Users\Hoang\Documents\module2\Threading\racingcars\obj\Debug\netcoreapp3.1\racingcars.csprojAssemblyReference.cache
+C:\Users\Hoang\Documents\module2\Threading\racingcars\obj\Debug\netcoreapp3.1\racingcars.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\module2\Threading\racingcars\obj\Debug\netcoreapp3.1\racingcars.AssemblyInfo.cs
+C:\Users\Hoang\Documents\module2\Threading\racingcars\obj\Debug\netcoreapp3.1\racingcars.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\module2\Threading\racingcars\obj\Debug\netcoreapp3.1\racingcars.dll
+C:\Users\Hoang\Documents\module2\Threading\racingcars\obj\Debug\netcoreapp3.1\racingcars.pdb
+C:\Users\Hoang\Documents\module2\Threading\racingcars\obj\Debug\netcoreapp3.1\racingcars.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LusziVVTNP/vRwPBVtgdjqe9NCL7JZnS9/PSOeZ7h4g1aChk0IxISEgIHeNBajDxc2rfoXq4JHr54KChXgeU8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hoang\\Documents\\module2\\review\\bai2\\bai3\\bai3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hoang\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
